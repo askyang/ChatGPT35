@@ -118,9 +118,7 @@ export function SideBar(props: { className?: string }) {
         shouldNarrow && styles["narrow-sidebar"]
       }`}
     >
-      <div className={styles["sidebar-header"]}>
-        <img src="./logo2.svg"  />
-      </div>
+
         <div className={styles["sidebar-header"]}>
         <svg width="261" height="61" viewBox="0 0 261 61" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_1362_6701)">
