@@ -119,6 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
+        <img src="logo2.svg"  />
+      </div>
+      <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGPT AI助手</div>
         <div className={styles["sidebar-sub-title"]}>
           构建自己的人工智能助手.
