@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
     >
 
         <div className={styles["sidebar-header"]}>
-        <svg width="261" height="61" viewBox="0 0 261 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="100%" viewBox="0 0 261 61" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_1362_6701)">
 <rect x="4" width="253" height="53" rx="8" fill="white"/>
 </g>
